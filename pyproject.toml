@@ -1,0 +1,7 @@
+[project]
+name = "databasev2"
+version = "0.1.0"
+description = "Prepare the files to import in DuckDB"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

@@ -1,1 +1,0 @@
-# duckdb-spruce-annotations-table
