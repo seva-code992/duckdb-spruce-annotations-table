@@ -3,4 +3,7 @@
 #SBATCH -n 1
 #SBATCH --output=output.txt
 
-python3 main.py
+uv venv
+source .venv/bin/activate
+uv pip install -r requirements.txt
+uv run main.py
