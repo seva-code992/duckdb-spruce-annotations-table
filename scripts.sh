@@ -1,5 +1,6 @@
 #!/bin/bash
 #SBATCH -t 10:00:00
 #SBATCH -n 1
+#SBATCH --output=output.txt
 
-python main.py
+python3 main.py
