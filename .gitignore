@@ -5,6 +5,14 @@ build/
 dist/
 wheels/
 *.egg-info
+.python-version
+Picab02_230926_at01_all_sorted.gff3
+Picab02_230926_at01_longest_representative_annotations_merged_sorted_non_redundant_panthers.tsv
+annotations-embeddings.npy
+annotations.csv
+embeddings.csv
+gene-ids.npy
+spruce_recap.db
 
 # Virtual environments
 .venv
