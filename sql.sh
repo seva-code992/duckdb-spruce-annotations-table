@@ -8,4 +8,4 @@
 
 duckdb test.db
 duckdb test.db -f spruce.sql
-duckdb test.db -f cosine-similarity.sql 
+duckdb test.db -f cosine_similarity.sql 
