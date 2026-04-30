@@ -130,5 +130,5 @@ LEFT JOIN LATERAL (
 ) e ON true;
 
 
---select * from genes_bedded where Eggnog_description is not null AND embeddings is not null;
-from genes_bedded;
+--from genes_bedded;
+select * from genes_bedded where Eggnog_description is not null AND embeddings is not null;
